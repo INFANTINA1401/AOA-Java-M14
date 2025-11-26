@@ -1,5 +1,3 @@
-
-
 # EX 4A Kadane's Algorithm - Dynamic Programming. 
 ## DATE:22/09/25
 ## AIM:
